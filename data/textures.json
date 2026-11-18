@@ -1,0 +1,15 @@
+{
+  "budget_bytes": 100,
+  "textures": [
+    {
+      "id": "t0",
+      "base_bytes": 64,
+      "levels": 4
+    },
+    {
+      "id": "t1",
+      "base_bytes": 32,
+      "levels": 3
+    }
+  ]
+}
